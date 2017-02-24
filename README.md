@@ -9,4 +9,4 @@ Credit: "Global Map of St Helena © ISCGM/The GIS Office, within the Property Di
 
 Contact: The GIS Office, within the Property Division.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/st_helena.png)
+E-mail: ![email](email.png)
